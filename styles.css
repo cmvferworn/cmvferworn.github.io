@@ -59,5 +59,9 @@
 }
 
 p {
-  font-family: "Chakra Petch";
+  font-family: "Chakra Petch", sans-serif;
+}
+
+h1 {
+  font-family: "Chakra Petch", sans-serif;
 }
